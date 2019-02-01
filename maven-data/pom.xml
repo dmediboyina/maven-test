@@ -26,7 +26,7 @@
               <configuration>
                  <deploymentType>cloudhub</deploymentType>
                  <muleVersion>3.8.3</muleVersion>
-                 <username>rukunoor13</username>
+                 <username>rukhs</username>
                  <password>Mulesoft@1234</password>
                  <workerType>Micro</workerType>
                  <redeploy>true</redeploy>
